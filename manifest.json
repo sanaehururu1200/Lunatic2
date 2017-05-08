@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "狂気的セカイ",
+        "name": "LunaticMobs-SH2",
+        "uuid": "ee649bcf-256c-4013-9068-6a802b89d757",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "LunaticMobs-SH2",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753cab",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165823",
+            "version": [0, 0, 1]
+        }
+    ]
+}
