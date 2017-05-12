@@ -34,7 +34,7 @@ Skeleton_X:
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/sanaehururu1200/Lunatic2/blob/master/LICENSE.txt)
 
 ## Author
 
