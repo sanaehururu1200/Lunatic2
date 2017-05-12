@@ -5,40 +5,31 @@ MITライセンスでの公開を開始しました。
 ==============================
 このAddonはMITライセンスで配布されています。
 MITライセンスについてはLicense.txtを見てください。
+/*
 ==============================
-  _____ _    _ 
- / ____| |  | |
-| (___ | |__| |
- ¥___ ¥|  __  |
- ____) | |  | |
-|_____/|_|  |_|
-http://otos.red
 
-c 2017 えすえいち(SH_OToS_Key)
-==============================
-*/
+追加MOB一覧
 
-#追加MOB一覧
-
-##<Creeper>
-###Creeper_Ender:
+<Creeper>
+Creeper_Ender:
 ワープするCreeper
 移動速度もちょっと早い
 
-##Creeper_Giant
-###巨大クリーパー
+Creeper_Giant:
+巨大クリーパー
 爆発力がヤバい(ヤバい)
 それだけ
 
-##<EnderMan>
-###EnderMan_X:
+<EnderMan>
+EnderMan_X:
 目を合わせると....
+おっと誰かk(死
 
-##<Skeleton>
-###Skeleton_Fire:
+<Skeleton>
+Skeleton_Fire:
 ファイヤーボールを撃ってきます
 
-###Skeleton_X:
+Skeleton_X:
 高速で矢を連射してきます。
 
 
